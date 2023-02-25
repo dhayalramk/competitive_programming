@@ -1,6 +1,5 @@
 # Leetcode
 
-## Problems number wise
 
 | Question Number  | Title | Solution | Difficulty | 
 | ------------- | ------------- | ------------- | ------------- |
